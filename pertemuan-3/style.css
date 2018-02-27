@@ -1,0 +1,45 @@
+.jumbotron {
+    background-color: darkslateblue;
+}
+
+.highlight {
+    background-color: #ffeaa7;
+    padding: 2%;
+    border-radius: 8px;
+}
+
+    .highlight .judul a {
+        color: #636e72;
+    }
+
+.judul {
+    font-size: 21px;
+}
+
+.hr-label {
+    border: none;
+    background-color: gray;
+    height: 5px;
+}
+
+.gambar {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 21px;
+    border-radius: 5px;
+}
+
+.label-post ul{
+    padding: 0 15px;
+}
+
+.tanggal {
+    font-size: 12px;
+}
+
+.ads {
+    background-image: url(378132.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+}
