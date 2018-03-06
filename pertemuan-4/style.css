@@ -22,3 +22,17 @@
 	margin-bottom: 13px;
 	border-radius: 5px;
 }
+
+@media only screen and (max-width: 480px) {
+	.highlight {
+		margin-bottom: 34px;
+	}
+
+	h6 {
+		margin-top: 13px;
+	}
+
+	.gambar {
+		height: 300px;
+	}
+}
